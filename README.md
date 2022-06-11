@@ -38,13 +38,10 @@ print("Gender : ",result['gender'])
 ```
 
 ## OUTPUT:
-```
-/*
-1. CODE :
-![SKILL ASSESSMENT OUTPUT](.png)
+
+
+![output](https://user-images.githubusercontent.com/86832944/173180684-73108abe-6298-40ea-b8f7-5974631db763.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
 
-*/
-```
 
